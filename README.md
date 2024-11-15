@@ -1,7 +1,7 @@
 ![MasterHead](https://i.pinimg.com/736x/f3/bd/45/f3bd45f6d915b011bc29f6661a73bac9.jpg)
-<h1 align="center">Hi 👋, I'm Tushar soni</h1>
+<h1 align="center">Hi Tushar soni this side </h1>
 <h3 align="center">"Leveling Up in Coding & Web Dev | Algorithms, Databases, and Frags 🎮💻"</h3>
-<img aling="right" alt="coding" width="400" src= "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3h1dXE5azMwdWNweHFkY2s0bmd4cXoxand2end1M3RwYzM2ZzMwdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rpl1sod1vCXK0L2SUN/giphy.webp">
+<img aling="center" alt="coding" width="400" src= "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3h1dXE5azMwdWNweHFkY2s0bmd4cXoxand2end1M3RwYzM2ZzMwdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rpl1sod1vCXK0L2SUN/giphy.webp">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tusharsoni3&label=Profile%20views&color=0e75b6&style=flat" alt="tusharsoni3" /> </p>
 
@@ -14,7 +14,7 @@
 - ⚡ Fun fact **We can be good duo in pc games**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -23,5 +23,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tusharsoni3&show_icons=true&locale=en&layout=compact" alt="tusharsoni3" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tusharsoni3&show_icons=true&locale=en" alt="tusharsoni3" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tusharsoni3&" alt="tusharsoni3" /></p>
