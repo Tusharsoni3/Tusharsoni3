@@ -1,9 +1,11 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=1E1E2E,181825&height=180&section=header&text=Tushar%20Soni&fontColor=CBA6F7&fontSize=55&fontAlignY=52&desc=Backend%20Engineer%20%7C%20API%20Systems%20%7C%20Node.js%20Developer&descColor=89B4FA&descAlignY=74&animation=fadeIn" width="100%" alt="Tushar Soni — Backend Engineer"/>
+<p align="center">
+  <img src="./assets/wallpaperflare.com_wallpaper.jpg" width="110%" height="400" alt="bannerImg"/>
+</p>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3000&pause=1200&color=CBA6F7&background=00000000&center=true&vCenter=true&repeat=true&width=760&height=45&lines=%24+whoami+%E2%86%92+Backend+Engineer+%7C+Node.js+Developer;%24+stack+%E2%86%92+TypeScript+%7C+PostgreSQL+%7C+Redis+%7C+Docker+%7C+AWS;%24+built+%E2%86%92+GateX+API+Gateway+%7C+E2EE+Chat+App;%24+learning+%E2%86%92+Go+%7C+Microservices+%7C+System+Design;%24+open_to+%E2%86%92+Backend+SDE+%7C+Full-time+%7C+Remote" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3000&pause=1200&color=CBA6F7&background=00000000&center=true&vCenter=true&repeat=true&width=760&height=45&lines=%24+WhoAmI+%E2%86%92+Backend+Engineer+%7C+Node.js+Developer;%24+stack+%E2%86%92+TypeScript+%7C+PostgreSQL+%7C+Redis+%7C+Docker+%7C+AWS;%24+built+%E2%86%92+GateX+API+Gateway+%7C+E2EE+Chat+App;%24+learning+%E2%86%92+Go+%7C+Microservices+%7C+System+Design;%24+open_to+%E2%86%92+Backend+SDE+%7C+Full-time+%7C+Remote" alt="Typing SVG"/>
 </p>
 
 <br/>
