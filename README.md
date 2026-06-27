@@ -46,15 +46,13 @@
 
 ---
 
-## `$ cat about.txt`
+## `$ About.txt`
 
 > Backend Engineer specializing in **API systems, real-time infrastructure, and distributed backend design**. I build production-grade Node.js services with a focus on security, scalability, and clean architecture. Final-year B.Tech student at JUET actively shipping portfolio systems and exploring Go for high-performance microservices.
 
 ```bash
 ROLE        →  Backend Engineer  (Fresher · Class of 2027)
-DOMAIN      →  Fintech | SaaS | EdTech | Open Source | Startups | MNCs
 STACK       →  Node.js · TypeScript · Go · PostgreSQL · Redis · Docker · AWS
-SPECIALTY   →  API Design · Auth Systems · Real-time Backend · DevOps
 OPEN_TO     →  Backend SDE · Node.js Engineer · Full-time · Remote OK
 ```
 
@@ -105,19 +103,6 @@ OPEN_TO     →  Backend SDE · Node.js Engineer · Full-time · Remote OK
   &nbsp;
   <img src="https://img.shields.io/badge/Security-AES--256--GCM%20%7C%20RSA--OAEP%20%7C%20Rate%20Limiting-89B4FA?style=flat-square&labelColor=181825"/>
 </p>
-
----
-
-## `$ cat expertise.md`
-
-| Domain | Proficiency | Details |
-|:-------|:-----------:|:--------|
-| **API Gateway & Reverse Proxy** | `████████░░` Advanced | Rate limiting, Redis caching, async logging pipeline, analytics |
-| **Authentication & Security** | `████████░░` Advanced | JWT, OAuth 2.0, AES-256-GCM, RSA-OAEP, idempotency keys |
-| **Real-time Systems** | `███████░░░` Proficient | Socket.io, Redis Pub/Sub, BullMQ, delivery receipts |
-| **Database Engineering** | `███████░░░` Proficient | PostgreSQL, MongoDB, Redis, Drizzle ORM, bulk inserts |
-| **DevOps & CI/CD** | `██████░░░░` Intermediate | Docker, GitHub Actions, VPS deployment, Docker Compose |
-| **Go (Systems)** | `████░░░░░░` Learning | Concurrency, goroutines, HTTP performance, microservices |
 
 ---
 
@@ -190,38 +175,6 @@ OPEN_TO     →  Backend SDE · Node.js Engineer · Full-time · Remote OK
 </p>
 </details>
 
----
-
-## `$ cat experience.log`
-
-> 🎯 **Currently pursuing B.Tech (2023–2027)** — No formal industry experience yet. Compensating with production-grade open source projects that cover real-world backend patterns: API gateways, E2EE encryption, job queues, CI/CD, and microservices.
-
----
-
-## `$ cat achievements.md`
-
-<div align="center">
-
-| 🏆 Achievement | Details |
-|:--------------|:--------|
-| 🔐 Built E2EE from Scratch | AES-256-GCM + RSA-OAEP key exchange without library shortcuts |
-| ⚡ Production API Gateway | GateX: reverse proxy + Redis rate limiting + async logging pipeline |
-| 🐳 Full Docker CI/CD | GitHub Actions + Docker Compose pipeline on a self-hosted Hostinger VPS |
-| 📦 Offline Queue System | BullMQ-based offline message delivery with idempotency guarantees |
-| 🤖 AI-Powered Chat | Gemini API integration for context-aware real-time suggested replies |
-| 🌐 3 Production Systems | All projects co-deployed on one VPS via Docker Compose |
-
-</div>
-
----
-
-## `$ cat education.md`
-
-<p align="center">
-  <img src="https://img.shields.io/badge/B.Tech-Computer%20Science%20%26%20Engineering-CBA6F7?style=for-the-badge&labelColor=1E1E2E"/>
-  <br/><br/>
-  <img src="https://img.shields.io/badge/Jaypee%20University%20of%20Engineering%20%26%20Technology-2023%20%E2%86%92%202027-89B4FA?style=for-the-badge&labelColor=1E1E2E"/>
-</p>
 
 ---
 
@@ -237,80 +190,13 @@ OPEN_TO     →  Backend SDE · Node.js Engineer · Full-time · Remote OK
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tusharsoni3&theme=transparent&bg_color=1E1E2E&title_color=CBA6F7&text_color=CDD6F4&border_color=CBA6F7&layout=compact&langs_count=8&hide_border=false" height="150" alt="Top Languages"/>
 </p>
 
----
-
-## `$ cat trophies.sh`
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tusharsoni3&theme=tokyonight&no-bg=true&no-frame=false&column=7&margin-w=8&margin-h=8" width="95%" alt="GitHub Trophies"/>
-</p>
-
----
-
 ## `$ ./activity-graph.sh`
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=tusharsoni3&bg_color=1E1E2E&color=CBA6F7&line=89B4FA&point=CBA6F7&area=true&area_color=181825&hide_border=false&border_color=CBA6F7&title_color=CBA6F7" width="95%" alt="Activity Graph"/>
 </p>
 
----
-
-## `$ ./summary-cards.sh`
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tusharsoni3&theme=catppuccin_mocha" width="95%" alt="Profile Details"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tusharsoni3&theme=catppuccin_mocha" width="23%" alt="Repos Per Language"/>
-  &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tusharsoni3&theme=catppuccin_mocha" width="23%" alt="Most Commit Language"/>
-  &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tusharsoni3&theme=catppuccin_mocha" width="23%" alt="Stats"/>
-  &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tusharsoni3&theme=catppuccin_mocha&utcOffset=5.5" width="23%" alt="Productive Time"/>
-</p>
-
----
-
-## `$ cat snake.yml`
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/tusharsoni3/tusharsoni3/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
-</p>
-
----
-
-## `$ cat focus.yaml`
-
-```yaml
-current_focus:
-  learning:
-    - Go (concurrency, goroutines, HTTP performance)
-    - Microservices architecture and inter-service communication
-    - DSA fundamentals for placement preparation
-
-  building:
-    - "🎮 Multiplayer Game Backend Platform (mini PlayFab/GameSparks clone)"
-    - "   services: [player-mgmt, matchmaking, leaderboard, game-state-sync, anti-cheat]"
-    - "🌐 Deploying all projects on Hostinger VPS via Docker Compose"
-
-  exploring:
-    - Message broker evaluation (Kafka vs RabbitMQ vs Redis Streams)
-    - Monorepo tooling (Turborepo / Nx) for microservices
-    - System design patterns for distributed backends
-
-  open_to:
-    - Backend SDE (Node.js / Go)
-    - API and Platform Engineering roles
-    - Full-time positions
-    - Remote-friendly opportunities
-    - Open source contributions
-```
-
----
-
-## `$ connect --all`
+## `$ Connect With ME `
 
 <p align="center">
   <a href="mailto:tstushar342@gmail.com">
@@ -331,9 +217,6 @@ current_focus:
 </p>
 
 <p align="center">
-  <em>"Systems don't lie — write backend code that scales, or refactor until it does."</em>
+  <em>"There's always more to learn"</em>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=1E1E2E,181825&height=80&section=footer&reversal=false" width="100%" alt="Footer"/>
-</p>
