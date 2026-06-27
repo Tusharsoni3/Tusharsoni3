@@ -59,7 +59,7 @@ OPEN_TO     →  Backend SDE · Node.js Engineer · Full-time · Remote OK
 ---
 
 ## `$ ls tech-stack/`
-
+<div align="center">
 **Languages**
 <p>
   <img src="https://skillicons.dev/icons?i=js,ts,go,bash&theme=dark"/>
@@ -84,7 +84,7 @@ OPEN_TO     →  Backend SDE · Node.js Engineer · Full-time · Remote OK
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,linux&theme=dark"/>
 </p>
-
+</div>
 ---
 
 ## `$ cat specialization.md`
