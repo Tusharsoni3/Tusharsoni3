@@ -60,7 +60,9 @@ OPEN_TO     →  Backend SDE · Node.js Engineer · Full-time · Remote OK
 
 ## `$ ls tech-stack/`
 <div align="center">
+  
 **Languages**
+  
 <p>
   <img src="https://skillicons.dev/icons?i=js,ts,go,bash&theme=dark"/>
 </p>
@@ -85,26 +87,8 @@ OPEN_TO     →  Backend SDE · Node.js Engineer · Full-time · Remote OK
   <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,linux&theme=dark"/>
 </p>
 </div>
----
 
-## `$ cat specialization.md`
 
-<p>
-  <img src="https://img.shields.io/badge/API%20Design-REST%20%7C%20Reverse%20Proxy%20%7C%20Webhooks-CBA6F7?style=flat-square&labelColor=181825"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Auth%20Systems-JWT%20%7C%20OAuth%202.0%20%7C%20E2EE-89B4FA?style=flat-square&labelColor=181825"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Real--time-Socket.io%20%7C%20BullMQ%20%7C%20Redis%20Pub%2FSub-CBA6F7?style=flat-square&labelColor=181825"/>
-</p>
-<p>
-  <img src="https://img.shields.io/badge/Databases-PostgreSQL%20%7C%20MongoDB%20%7C%20Redis-89B4FA?style=flat-square&labelColor=181825"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/DevOps-Docker%20%7C%20GitHub%20Actions%20%7C%20AWS-CBA6F7?style=flat-square&labelColor=181825"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Security-AES--256--GCM%20%7C%20RSA--OAEP%20%7C%20Rate%20Limiting-89B4FA?style=flat-square&labelColor=181825"/>
-</p>
-
----
 
 ## `$ ls projects/`
 
@@ -175,26 +159,6 @@ OPEN_TO     →  Backend SDE · Node.js Engineer · Full-time · Remote OK
 </p>
 </details>
 
-
----
-
-## `$ ./github-stats.sh`
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tusharsoni3&show_icons=true&theme=transparent&bg_color=1E1E2E&title_color=CBA6F7&icon_color=89B4FA&text_color=CDD6F4&border_color=CBA6F7&hide_border=false&count_private=true&rank_icon=github" height="180" alt="GitHub Stats"/>
-  &nbsp;&nbsp;
-  <img src="https://streak-stats.demolab.com/?user=tusharsoni3&theme=transparent&background=1E1E2E&border=CBA6F7&ring=CBA6F7&fire=89B4FA&currStreakLabel=CBA6F7&currStreakNum=CBA6F7&sideLabels=CDD6F4&sideNums=89B4FA&dates=CDD6F4&stroke=CBA6F7" height="180" alt="Streak Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tusharsoni3&theme=transparent&bg_color=1E1E2E&title_color=CBA6F7&text_color=CDD6F4&border_color=CBA6F7&layout=compact&langs_count=8&hide_border=false" height="150" alt="Top Languages"/>
-</p>
-
-## `$ ./activity-graph.sh`
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tusharsoni3&bg_color=1E1E2E&color=CBA6F7&line=89B4FA&point=CBA6F7&area=true&area_color=181825&hide_border=false&border_color=CBA6F7&title_color=CBA6F7" width="95%" alt="Activity Graph"/>
-</p>
 
 ## `$ Connect With ME `
 
