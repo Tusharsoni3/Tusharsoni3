@@ -10,15 +10,7 @@
 
 <br/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/B.Tech-Computer%20Science%20%26%20Engineering-CBA6F7?style=flat-square&labelColor=181825"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/JUET-Jaypee%20University%20of%20Engg.%20%26%20Tech.-89B4FA?style=flat-square&labelColor=181825"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/%F0%9F%93%8D-Bhopal%2C%20India-CBA6F7?style=flat-square&labelColor=181825"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Batch-2027-89B4FA?style=flat-square&labelColor=181825"/>
-</p>
+
 
 <p align="center">
   <a href="https://mac-os-ebum.onrender.com/" target="_blank">
